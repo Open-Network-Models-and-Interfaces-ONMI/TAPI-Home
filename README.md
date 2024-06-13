@@ -28,7 +28,7 @@
   + TAPI has been extended by all MEF Network Resource Models
   + TAPI has been enhanced by MEF feedbacks
 - TAPI and OIF
-- TAPI has been successfully adopted by 2016, 2018 and 2020 OIF Interops
+  + TAPI has been successfully adopted by 2016, 2018 and 2020 OIF Interops
 
 ### The  Federation of Standard Models in Open-Source Environment:
 
