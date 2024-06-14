@@ -44,13 +44,24 @@ The Transport API abstracts a common set of control plane functions such as Netw
 
 ### The TAPI Repositories:
 
-- [The code (UML, YANG, OAS)](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI)
+- [The code](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI):
+  + UML modules, managed through Eclipse/Papyrus
+  + YANG modules, the schema semi-automatically generated from UML modules
+  + OAS/Swagger modules, the API semi-automatically generated from YANG modules
 
-- [The documentation](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Documentation)
+- [The documentation](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Documentation):
+  + TR-547 and TR-548 Reference Implementation Agreements (RIAs)
+  + From TR-547 intro: _This document provides a set of guidelines and recommendations for a standard use of the TAPI models in combination with the RESTCONF protocol for the implementation of the interface between network systems in charge of the control/management of networks based on WDM/OTN technologies. This document can be used in conjunction with [TR-548] which is the Reference Implementation Agreement for TAPI Streaming._
+  + TAPI RIAs Ancillary Documents
+    - TAPI Alarm TCA List
+    - TAPI Notification and Streaming Sequences
+  + TAPI Delta Document, to document the differences wrt previous release
+  + TAPI Gendoc Templates, to generate MS-Word docs from UML modules
+  + TAPI Tooling Guidelines, to describe the process to generate YANG and OAS modules
 
-- [The contributions for discussions](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities)
-
-- [The wiki (meeting minutes and items under discussion)](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities/wiki)
+- [The current activities](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities):
+  + Contributions for discussions
+  + Meeting minutes and items under discussion [wiki](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities/wiki)
 
 ### Participate!
 
