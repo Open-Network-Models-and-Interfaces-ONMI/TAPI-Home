@@ -61,7 +61,7 @@ The Transport API abstracts a common set of control plane functions such as Netw
 
 - [The current activities](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities):
   + Contributions for discussions
-  + Meeting minutes and items under discussion [wiki](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities/wiki)
+  + Meeting minutes and items under discussion are available at [wiki](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities/wiki)
 
 ### Participate!
 
