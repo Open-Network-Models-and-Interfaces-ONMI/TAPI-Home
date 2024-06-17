@@ -51,7 +51,7 @@ The Transport API abstracts a common set of control plane functions such as Netw
 
 - [The documentation](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Documentation):
   + TR-547 and TR-548 Reference Implementation Agreements (RIAs)
-  + From TR-547 intro: _This document provides a set of guidelines and recommendations for a standard use of the TAPI models in combination with the RESTCONF protocol for the implementation of the interface between network systems in charge of the control/management of networks based on WDM/OTN technologies. This document can be used in conjunction with [TR-548] which is the Reference Implementation Agreement for TAPI Streaming._
+  + From TR-547 intro: _This document provides a set of requirements, guidelines and recommendations for a standard use of the TAPI models in combination with the RESTCONF protocol for the implementation of the interface between network systems in charge of the control/management of networks based on WDM/OTN technologies. This document can be used in conjunction with TR-548 which is the Reference Implementation Agreement for TAPI Streaming._
   + TAPI RIAs Ancillary Documents
     - TAPI Alarm TCA List
     - TAPI Notification and Streaming Sequences
