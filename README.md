@@ -42,14 +42,18 @@ The Transport API abstracts a common set of control plane functions such as Netw
 
 ![](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities/blob/main/ContributionsForDiscussions/TAPI-Intro_slide2.jpg)
 
-### The TAPI Repositories:
-
-- [The code](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI):
+## The TAPI Repositories
+### [The code](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI)
+- The TAPI code is composed by:
   + UML modules, managed through Eclipse/Papyrus
   + YANG modules, the schema semi-automatically generated from UML modules
   + OAS/Swagger modules, the API semi-automatically generated from YANG modules
+- Latest release: [TAPI v2.5.0](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/releases/tag/v2.5.0)
+- Main release in production: [TAPI v2.1.3](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/releases/tag/v2.1.3)
+- Release in progress: [TAPI develop](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/tree/develop)
 
-- [The documentation](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Documentation):
+### [The documentation](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Documentation)
+- The TAPI documentation is composed by:
   + TR-547 and TR-548 Reference Implementation Agreements (RIAs)
   + From TR-547 intro: _This document provides a set of requirements, guidelines and recommendations for a standard use of the TAPI models in combination with the RESTCONF protocol for the implementation of the interface between network systems in charge of the control/management of networks based on WDM/OTN technologies. This document can be used in conjunction with TR-548 which is the Reference Implementation Agreement for TAPI Streaming._
   + TAPI RIAs Ancillary Documents
@@ -58,10 +62,13 @@ The Transport API abstracts a common set of control plane functions such as Netw
   + TAPI Delta Document, to document the differences wrt previous release
   + TAPI Gendoc Templates, to generate MS-Word docs from UML modules
   + TAPI Tooling Guidelines, to describe the process to generate YANG and OAS modules
-
-- [The current activities](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities):
-  + Contributions for discussions
-  + Meeting minutes and items under discussion are available at [wiki](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities/wiki)
+- [TAPI 2.5.0 / 2.5.1 Documentation](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Documentation/releases/tag/v2.5.0)
+- [TAPI 2.1.3 Documentation](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Documentation/releases/tag/v2.1.3)
+- [TAPI Documentation in progress](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Documentation)
+### [The current activities](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities)
+- [Contributions for Discussions](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/tree/tapi-team-activities/TAPI-TEAM-ACTIVITIES/Contributions)
+- [Meeting minutes and items under discussion](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Activities/wiki)
+- [Plan](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI/wiki/TAPI-Plan)
 
 ### Participate!
 
