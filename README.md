@@ -73,7 +73,7 @@ The Transport API abstracts a common set of control plane functions such as Netw
 ### Participate!
 
 To get involved in the project please join the mailing list and attend meetings:
-- Mailing list: transport-api@opennetworking.org
+- Mailing list: onmi-tapi@googlegroups.com 
 - Meetings: Tuesday 9:00 AM US Eastern (Daylight) Time. Duration two hours.
   + [Zoom]( https://zoom-lfx.platform.linuxfoundation.org/meetings/onmi-project)
-- Co-leaders: [Andrea Mazzini](andrea.mazzini@nokia.com), [Nigel Davis](ndavis@ciena.com)
+- Co-leaders: [Kishore Kumar](kishor.k_g@nokia.com), [Brian Johnson](bjohnson@ciena.com)
